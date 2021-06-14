@@ -1,0 +1,8 @@
+plex
+radarr
+sonarr
+nzbget
+ombi
+nzbhydra
+portainer
+minecraft
